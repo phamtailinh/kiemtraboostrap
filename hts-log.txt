@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Nov 2022 14:12:52 at https://uiuxom.com/ulina/html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://uiuxom.com/ulina/html/index.html -O1 "C:\KieuLinh\boostrap" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/fonts/revicons/revicons.eot?5510888 (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/fonts/revicons/revicons.woff?5510888 (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/fonts/revicons/revicons.ttf?5510888 (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/fonts/revicons/revicons.svg?5510888 (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/css/openhand.cur (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/css/closedhand.cur (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/assets/gridtile.png (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/assets/gridtile_white.png (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/assets/gridtile_3x3.png (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/assets/gridtile_3x3_white.png (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:01	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/assets/coloredbg.png (from https://uiuxom.com/ulina/html/css/settings.css)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/TweenLite.js (from https://uiuxom.com/ulina/html/js/jquery.themepunch.tools.min.js)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/TweenLite.js (from https://uiuxom.com/ulina/html/js/jquery.themepunch.tools.min.js)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/Version/ (from https://uiuxom.com/ulina/html/js/jquery.themepunch.tools.min.js)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/themepunch.revolution.min.js (from https://uiuxom.com/ulina/html/js/jquery.themepunch.revolution.min.js)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/jquery.themepunch.revolution.min.js (from https://uiuxom.com/ulina/html/js/jquery.themepunch.revolution.min.js)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/jquery.themepunch.revolution.js (from https://uiuxom.com/ulina/html/js/jquery.themepunch.revolution.min.js)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/images/transparent.png (from https://uiuxom.com/ulina/html/js/jquery.themepunch.revolution.min.js)
+14:16:02	Error: 	"Not Found" (404) at link https://uiuxom.com/ulina/html/assets/transparent.png (from https://uiuxom.com/ulina/html/js/jquery.themepunch.revolution.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 10 seconds : 333 links scanned, 313 files written (28252243 bytes overall) [24697245 bytes received at 129985 bytes/sec], 6249153 bytes transferred using HTTP compression in 98 files, ratio 19%, 10.4 requests per connection
+(19 errors, 0 warnings, 0 messages)
